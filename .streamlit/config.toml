@@ -1,0 +1,25 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#3563E9"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#202733"
+borderColor = "#E4E7EC"
+linkColor = "#3563E9"
+codeBackgroundColor = "#F2F4F7"
+codeTextColor = "#202733"
+headingFontSizes = ["2rem", "1.5rem", "1.25rem", "1.1rem", "1rem", "0.9rem"]
+font = "sans-serif"
+codeFont = "monospace"
+baseFontSize = 15
+metricValueFontSize = "1.75rem"
+baseRadius = "small"
+buttonRadius = "small"
+showWidgetBorder = true
+chartCategoricalColors = ["#3563E9", "#12B76A", "#D92D20", "#667085"]
